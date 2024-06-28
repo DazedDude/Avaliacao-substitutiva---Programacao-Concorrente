@@ -14,27 +14,42 @@ Baixe os arquivos deste repositorio
 Abra o Eclipse IDE
 verifique onde está seu diretorio do Eclipse IDE no seu computador como por exemplo: C:\Users\murilo\eclipse-workspace então coloque os aquivos deste repositorio
 
-importe o projeto para o Eclipse IDE:
+#importe o projeto para o Eclipse IDE:
 aperte em File 
+
 depois em Import..
+
 agora clique em Existing Projects into Workspace
+
 Selecione o aquivo baixado deste repositorio
 
 
-Adicione a Biblioteca JSON ao projeto: 
+#Adicione a Biblioteca JSON ao projeto: 
+
 clicando com o botando direito no projeto temperatura-brasil 
+
 clique em Build Path
+
 Configure Build Path
+
 Vá para aba de Libraries
+
 Add External JARs...
+
 Selecione o arquivo Json baixado como json-20210307.jar
+
 Aplly>Apply and Close
 
-Exeutando o projeto:
+#Exeutando o projeto:
+
 Abra o projeto clicando na seta para baixo 
+
 Abra src
+
 Entre no (default package)
+
 Clique com o botão direito na Classe Principal.java
+
 Run as > Java Application
 
 
