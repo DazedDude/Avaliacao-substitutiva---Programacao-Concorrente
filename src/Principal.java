@@ -36,15 +36,15 @@ public class Principal {
 			
 			
 			
-			bw.write("Tempo de execução médio das 10 rodadas sem threads: " + tempoSemThreads + "ms");
-			System.out.println("Tempo de execução médio das 10 rodadas sem threads: " + tempoSemThreads + "ms");
-			bw.write("Tempo de execução médio das 10 rodadas com 3 threads: " + tempoSemThreads + "ms");
-			System.out.println("Tempo de execução médio das 10 rodadas com 3 threads: " + tempoCom3Threads + "ms");
-			bw.write("Tempo de execução médio das 10 rodadas com 9 threads: " + tempoSemThreads + "ms");
-			System.out.println("Tempo de execução médio das 10 rodadas com 9 threads: " + tempoCom9Threads + "ms");
-			bw.write("Tempo de execução médio das 10 rodadas com 27 threads: " + tempoSemThreads + "ms");
-			System.out.println("Tempo de execução médio das 10 rodadas com 27 threads: " + tempoCom27Threads + "ms");
-			bw.flush();
+	    		bw.write("Tempo de execução médio das 10 rodadas sem threads: " + tempoSemThreads + "ms");
+            		System.out.println("Tempo de execução médio das 10 rodadas sem threads: " + tempoSemThreads + "ms");
+            		bw.write("Tempo de execução médio das 10 rodadas com 3 threads: " + tempoCom3Threads + "ms");
+            		System.out.println("Tempo de execução médio das 10 rodadas com 3 threads: " + tempoCom3Threads + "ms");
+            		bw.write("Tempo de execução médio das 10 rodadas com 9 threads: " + tempoCom9Threads + "ms");
+            		System.out.println("Tempo de execução médio das 10 rodadas com 9 threads: " + tempoCom9Threads + "ms");
+            		bw.write("Tempo de execução médio das 10 rodadas com 27 threads: " + tempoCom27Threads + "ms");
+            		System.out.println("Tempo de execução médio das 10 rodadas com 27 threads: " + tempoCom27Threads + "ms");
+            		bw.flush();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
