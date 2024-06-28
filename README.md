@@ -24,7 +24,7 @@ agora clique em Existing Projects into Workspace
 Selecione o aquivo baixado deste repositorio
 
 
-#Adicione a Biblioteca JSON ao projeto: 
+# Adicione a Biblioteca JSON ao projeto: 
 
 clicando com o botando direito no projeto temperatura-brasil 
 
@@ -40,7 +40,7 @@ Selecione o arquivo Json baixado como json-20210307.jar
 
 Aplly>Apply and Close
 
-#Exeutando o projeto:
+# Exeutando o projeto:
 
 Abra o projeto clicando na seta para baixo 
 
