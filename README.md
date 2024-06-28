@@ -54,7 +54,7 @@ Clique com o botão direito na Classe Principal.java
 
 Run as > Java Application
 
-# É possivel visualizar resutados em dados.txt
+É possivel visualizar resutados em dados.txt
 
 
 
