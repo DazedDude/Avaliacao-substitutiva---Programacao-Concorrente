@@ -15,7 +15,8 @@ Baixe os arquivos deste repositorio
 Abra o Eclipse IDE
 verifique onde está seu diretorio do Eclipse IDE no seu computador como por exemplo: C:\Users\murilo\eclipse-workspace então coloque os aquivos deste repositorio
 
-#importe o projeto para o Eclipse IDE:
+importe o projeto para o Eclipse IDE:
+
 aperte em File 
 
 depois em Import..
